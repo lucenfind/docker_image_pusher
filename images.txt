@@ -1,1 +1,6 @@
-redis:6.2.14-alpine3.20
+basicai/xtreme1-pcd-tools
+basicai/xtreme1-image-vect-visualization
+basicai/xtreme1-image-object-detection
+basicai/xtreme1-point-cloud-object-detection
+basicai/xtreme1-frontend:v0.9.1
+basicai/xtreme1-backend:v0.9.1
